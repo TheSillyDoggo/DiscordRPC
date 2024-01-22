@@ -1,6 +1,7 @@
 # DiscordRPC for Geode
 
 A custom Rich Presence mod for Geode.
+Ported to 2.2 by [TheSillyDoggo](user:TheSillyDoggo)
 
 ## Options (found by clicking the settings button below)
 
